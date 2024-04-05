@@ -1,0 +1,8 @@
+idComanda: 49
+idClient: 1019; numeClient: Gabitu
+idProdus: 36; numeProdus: Jinars de Cirese 600ml; Pret: 72.0
+Cantitate: 2
+
+pretTotal: 144.0 lei
+
+Data: 2023-05-19 03:31:18 AM

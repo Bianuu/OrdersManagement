@@ -1,0 +1,8 @@
+idComanda: 47
+idClient: 1007; numeClient: Remus
+idProdus: 13; numeProdus: Bere Nemarcata 750ml; Pret: 2.5
+Cantitate: 3
+
+pretTotal: 7.5lei
+
+Data: 2023-05-17 01:13:33 PM

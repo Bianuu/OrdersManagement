@@ -1,0 +1,8 @@
+idComanda: 48
+idClient: 1017; numeClient: Corinuta
+idProdus: 14; numeProdus: Tuica de PRUNE 1L; Pret: 50.0
+Cantitate: 12
+
+pretTotal: 600.0 lei
+
+Data: 2023-05-18 09:58:56 PM
